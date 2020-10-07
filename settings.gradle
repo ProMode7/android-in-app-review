@@ -1,0 +1,2 @@
+rootProject.name = "InAppReview"
+include ':app'
